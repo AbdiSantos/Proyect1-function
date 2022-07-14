@@ -11,7 +11,6 @@ function keysAndValues(datos) {
     }
     console.log(keys, values);
 }
-
-/* keysAndValues({a:1, b:2, C:3})*/
-/* keysAndValues({a:"Apple", b:"Microsoft", C:"Google"})*/
-/*keysAndValues({key1:true, key2: false, key3:undefined})*/
+    keysAndValues({a:1, b:2, C:3})
+    keysAndValues({a:"Apple", b:"Microsoft", C:"Google"})
+    keysAndValues({key1:true, key2: false, key3:undefined})
